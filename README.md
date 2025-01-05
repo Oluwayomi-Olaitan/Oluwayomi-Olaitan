@@ -1,9 +1,9 @@
-Hi, I’m @Yombless
+Hi, I am Oluwayomi Akinfenwa
 👀 My PhD research is in Visualisations of Bayesian hierarchical models
-💞️ My interest are visalisation, Bayesian hierarchical models, spatio-temporal data analysis
-🌱 I’m currently creating visulas for Bayesian hierarchical models
-💞️ I’m looking to collaborate with Bayesian analyst to work on health-related spatio-temporal data
-👀 I’m data scientist in health and well-being
+💞️ My interest are visalisations, Bayesian hierarchical models, spatio-temporal data analysis
+🌱 I am currently creating visuals for Bayesian hierarchical models
+💞️ I desire to collaborate with Bayesian analyst to work on health-related spatio-temporal data
+👀 I am data scientist in health and well-being
 - 😄 Pronouns: She/ her
 - ⚡ Fun fact: Singing, dancing
 
