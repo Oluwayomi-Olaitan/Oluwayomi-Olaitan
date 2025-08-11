@@ -4,7 +4,7 @@ Hi, I am Oluwayomi Akinfenwa
 
 💞️ My interest are visalisations, Bayesian hierarchical models, spatio-temporal data analysis
 
-🌱 I am currently creating visuals for Bayesian hierarchical models output to investigate information sharingwithin hierarchical structures
+🌱 I am currently creating visuals for Bayesian hierarchical models output to investigate information sharing within hierarchical structures, for model comparison and selection
 
 🌱 I am currently creating visualisation tools for country-level panel data
 
